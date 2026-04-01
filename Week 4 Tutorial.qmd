@@ -31,4 +31,4 @@ penguins |>
 
 As shown in @fig-penguins-scatter there is a clear positive correlation between flipper length and body mass. The specific averages for each group are detailed in @tbl-penguin-summary.
 
-The data was originally collected by \[\@penguin_data\].
+The data was originally collected by [@penguin_data]
